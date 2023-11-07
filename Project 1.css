@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.container1 {
+    background-color: #50C75A;
+    height: 50vh;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.con1-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.con1-para {
+    font-family: "Roboto";
+}
+
+.con1-button {
+    height: 36px;
+    width: 160px;
+    border-radius: 20px;
+    border-width: 0px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.con1-card {
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+.container-2 {
+
+    background-size: cover;
+    border-width: 3px;
+    border-color: #f0f0f0;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 5px;
+
+}
+
+.con2-head {
+    font-family: "Roboto";
+    font-weight: lighter;
+    margin-left: 20px;
+}
+
+.con2-para {
+    padding-left: 20px;
+    color: #999999;
+}
+
+.con2-card {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: "Roboto";
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.image {
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+    margin-left: 60px;
+
+}
+
+hr {
+    border-color: #f0f0f0;
+}
+
+
+.image-div {
+    margin-bottom: 20px;
+}
+
+.profile {
+    color: blue;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 10px;
+    margin-left: 5px;
+}
+
+.image-3 {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+
+.icon-con {
+    padding: 20px;
+}
+
+.subscribe {
+    color: #999999;
+    font-family: "Roboto";
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.con-head {
+    font-family: "Roboto";
+    font-weight: lighter;
+    font-size: 27px;
+    padding-left: 10px;
+}
+
+.con-para {
+    color: #999999;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-left: 10px;
+}
+
+.con1-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+    padding-left: 10px;
+}
+
+.content-con {
+    margin-bottom: 20px;
+}
+
+.view-btn {
+    height: 40px;
+    width: 140px;
+    border-width: 3px;
+    border-color: #f0f0f0;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: transparent;
+    color: blue;
+    margin-left: 20px;
+}
+
+.container4 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.con4-head {
+    font-family: "Angkor";
+    font-weight: bold;
+}
+
+.con4-para {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.con4-btn {
+    height: 40px;
+    width: 280px;
+    border-width: 3px;
+    border-color: #f0f0f0;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: transparent;
+    color: black;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.login-btn {
+    height: 50px;
+    width: 180px;
+    border-width: 3px;
+    border-color: #f0f0f0;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    text-align: left;
+    margin-bottom: 5px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.link {
+    color: black;
+    text-decoration: underline;
+}
